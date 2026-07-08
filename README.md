@@ -38,16 +38,6 @@ The dashboard provides valuable business insights into sales, profit, customer b
 
 ---
 
-# 📸 Dashboard Preview
-
-<p align="center">
-
-<img src="assets/dashboard.png" width="900">
-
-</p>
-
----
-
 # 📊 Key Performance Indicators
 
 - 💰 Total Sales
