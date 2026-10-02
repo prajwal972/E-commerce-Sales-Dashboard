@@ -52,7 +52,7 @@ The dashboard provides valuable business insights into sales, profit, customer b
 
 # 🛠 Tech Stack
 
-
+- Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
