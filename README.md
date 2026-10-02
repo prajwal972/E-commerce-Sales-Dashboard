@@ -33,8 +33,7 @@ The dashboard provides valuable business insights into sales, profit, customer b
 - 🛍 Product Category Analysis
 - 👥 Customer Insights
 - 🌍 Regional Sales Analysis
-- 🎯 KPI Cards
-- 🔍 Dynamic Filters & Slicers
+
 
 ---
 
